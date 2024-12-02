@@ -22,6 +22,6 @@ Siga as etapas abaixo para rodar o projeto em sua máquina:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/trabalho-ecommerce.git
+   git clone https://github.com/Akanashuk/Trabalho-E-commerce
 
 
